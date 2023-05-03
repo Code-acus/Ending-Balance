@@ -1,0 +1,11 @@
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe.config
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.AssemblyReference.cache
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.SuggestedBindingRedirects.cache
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Form1.resources
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Properties.Resources.resources
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.GenerateResource.cache
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.CoreCompileInputs.cache
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+C:\Development\C#\C#.NET\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb
