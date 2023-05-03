@@ -63,6 +63,8 @@ namespace Ending_Balance
 
             // Reset the focus
             startingBalTextBox.Focus();
+            monthsTextBox.Focus();
+            endingBalanceLabel.Text = "";
         }
 
         private void exitButton_Click(object sender, EventArgs e)
